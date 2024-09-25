@@ -34,8 +34,15 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
     return V, pi
 ```
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+### optimal policy
+![image](https://github.com/user-attachments/assets/fe5c6400-95ea-4c5c-a104-6f5a5493ca7d)
+
+### optimal value function
+![image](https://github.com/user-attachments/assets/0e1c7d3c-f269-4042-b941-d4b5bf886a96)
+
+### success rate for the optimal policy
+![image](https://github.com/user-attachments/assets/c0e9c349-da1f-4fc0-a5a7-97e0605eab5d)
 
 ## RESULT:
+Thus to implement and demonstrate value iteration in a simple reinforcement learning problem to find the optimal policy and state-value function is executed successfully.
 
-Write your result here
